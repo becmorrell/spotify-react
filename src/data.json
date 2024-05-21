@@ -1,0 +1,37 @@
+{ 
+    "artists": [
+        {
+            "name": "Jamie xx"
+        },
+        {
+            "name": "Coldplay"
+        },
+        {
+            "name": "The Streets"
+        },
+        {
+            "name": "Jessie Ware"
+        },
+        {
+            "name": "LCD Soundsystem"
+        },
+        {
+            "name": "Dua Lipa"
+        },
+        {
+            "name": "Bloc Party"
+        },
+        {
+            "name": "Nothing But Thieves"
+        },
+        {
+            "name": "Two Door Cinema Club"
+        },
+        {
+            "name": "FKA Twigs"
+        },
+        {
+            "name": "Mac DeMarco"
+        }
+    ]
+}
