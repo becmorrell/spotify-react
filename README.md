@@ -17,5 +17,15 @@ This project was started to test out the spotify API and turned into discovering
 - I split the returned data into "words" and use a sliding window technique to build potential artist names
 - finally loop through these to check if there are any matches to your top listened or suggested/similar artists.
 
+### In action
+Login:
+<img width="200" alt="Screenshot 2024-05-21 at 18 10 07" src="https://github.com/becmorrell/spotify-react/assets/77584099/68acbc8d-cc33-40b4-8ff5-b114f0ae0285">
 
+See top listened artists:
+<img width="300" alt="Screenshot 2024-05-21 at 18 10 21" src="https://github.com/becmorrell/spotify-react/assets/77584099/c47b0c7e-ec13-4db6-a130-40fc4f484973">
 
+Add festival lineup:
+<img width="300" alt="Screenshot 2024-05-21 at 18 11 59" src="https://github.com/becmorrell/spotify-react/assets/77584099/bf03b16b-9d38-4a89-aec8-e51e70f72ae8">
+
+Now start listening to these guys before Glastonbury!
+<img width="300" alt="Screenshot 2024-05-21 at 18 12 16" src="https://github.com/becmorrell/spotify-react/assets/77584099/b815bba4-eb09-4c88-a74b-e054565e74ec">
